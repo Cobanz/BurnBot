@@ -1,0 +1,2 @@
+# BurnBot
+insult bot
